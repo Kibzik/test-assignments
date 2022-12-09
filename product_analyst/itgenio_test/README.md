@@ -1,5 +1,5 @@
 # ItGen.io
-![Itgen.io](https://itgen.io/)
+[Itgen.io](https://itgen.io/)
 Eng
 1. Sasha, the marketer, spent $1000 on advertising and got us 50 applications for a trial session. How do you know if that's a lot, and Sasha needs to be reprimanded, or if it's a great result?
 2. Lyosha, a marketer, claims that if we raised our prices for Swiss residents by 1.5 times, we would earn more. How will you conduct this experiment and evaluate the results?
